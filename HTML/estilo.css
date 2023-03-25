@@ -1,0 +1,50 @@
+body{
+  
+background-color: rgb(73, 19, 109);
+}
+
+.Nombre{
+   text-align: center;
+  
+}
+nav {
+   background-color: rgb(105, 15, 165);
+   color: rgb(255, 254, 254);
+   text-align: center;
+}
+nav ul {
+   width: 100%;
+   list-style-type: style type none;
+   text-align: center;
+}
+
+nav li {
+   display: inline-flex;
+}
+
+nav a {
+   text-decoration: none;
+   color: white;
+   padding: 10px;
+   width: 150px;
+}
+
+nav li:hover {
+   background-color: #900ae9;
+   border-radius: 2.5rem;
+}
+
+.Seccion1{
+   background-color: rgb(78, 78, 78);
+   text-align: justify;
+}
+.Div2{
+   background-color: rgb(44, 6, 105);
+   text-align: justify;
+}
+
+.Final{
+
+background-color: rgb(53, 52, 52);
+ text-align: center;
+}
